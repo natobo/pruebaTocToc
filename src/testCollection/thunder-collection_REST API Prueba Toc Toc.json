@@ -1,0 +1,65 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "REST API Prueba Toc Toc",
+    "dateExported": "2023-08-30T23:41:46.362Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "642b39a4-3a7f-4d31-8136-823846ef16c6",
+            "colId": "7b140661-96b3-4155-b81a-159df28ec3a6",
+            "containerId": "",
+            "name": "localhost:3000/ping",
+            "url": "localhost:3000/ping",
+            "method": "GET",
+            "sortNum": 5000,
+            "created": "2023-08-30T22:46:27.878Z",
+            "modified": "2023-08-30T22:46:27.878Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "ce393869-697b-4b9c-b02e-aa978fcb27e0",
+            "colId": "7b140661-96b3-4155-b81a-159df28ec3a6",
+            "containerId": "",
+            "name": "localhost:3000/api/v1/comics",
+            "url": "localhost:3000/api/v1/comics",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-08-30T22:45:24.988Z",
+            "modified": "2023-08-30T22:45:24.988Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "06c69f26-0a3b-4f71-b1c0-f30479fec33a",
+            "colId": "7b140661-96b3-4155-b81a-159df28ec3a6",
+            "containerId": "",
+            "name": "localhost:3000/api/v1/comics/:id",
+            "url": "localhost:3000/api/v1/comics/1590",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2023-08-30T23:18:22.622Z",
+            "modified": "2023-08-30T23:27:18.958Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "afd57271-0de2-4717-a899-9367330ccd47",
+            "colId": "7b140661-96b3-4155-b81a-159df28ec3a6",
+            "containerId": "",
+            "name": "localhost:3000/api/v1/comics/:id/characters",
+            "url": "localhost:3000/api/v1/comics/1590/characters",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-08-30T23:37:00.019Z",
+            "modified": "2023-08-30T23:37:16.367Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
