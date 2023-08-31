@@ -15,7 +15,7 @@ Esta prueba se desarrollo con el fin de crear un proxy al API de marvel
     ```bash
      npm install
     ```
-3. Crear un archivo .env con las variables de entorno que usa la aplicación
+3. Crear un archivo .env con las variables de entorno que usa la aplicación y las llaves que proporciona el API de Marvel
     ```bash
     MARVEL_ROUTE=http://gateway.marvel.com/v1/public/comics
     PUBLIC_KEY=
