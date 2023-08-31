@@ -30,7 +30,7 @@ Esta prueba se desarrollo con el fin de crear un proxy al API de marvel
     ```bash
      npm run tsc
     ```
-6. Importar las rutas de los EP de la carpeta testCollection con ThunderClient para realizar las peticiones GET Rest para probar la aplicación
+6. Importar las rutas de los endpoints de la carpeta testCollection con la extensión ThunderClient para realizar las peticiones GET Rest y probar la aplicación.
    
 ## Links relacionados 📖
 - [API DOC marvel](https://developer.marvel.com/docs#!/public/getComicIndividual_get_7)
