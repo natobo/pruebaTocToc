@@ -8,7 +8,7 @@ Esta prueba se desarrollo con el fin de crear un proxy al API de marvel
 1. Clonar el repositorio
 
     ```bash
-    git clone https://github.com/natobo/CloudbotCDK
+    git clone https://github.com/natobo/pruebaTocToc.git
     ```
 2. Instalar módulos con npm
 
